@@ -1,1 +1,3 @@
 onnx
+cpython
+pybind11
