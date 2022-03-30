@@ -1,3 +1,4 @@
 onnx
 cpython
 pybind11
+jsonpickle
