@@ -1,5 +1,5 @@
 # TensorStar
-Flexible Tensor Runtime with Magic.  
+Flexible Tensor Runtime
 See [Wiki](https://github.com/wenxcs/TensorStar/wiki) for latest information!
 
 T* = TensorStar   
